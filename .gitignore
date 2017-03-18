@@ -10,3 +10,6 @@ gen
 .DS_STORE
 
 node_modules/
+
+bundle.js
+npm-debug.log
