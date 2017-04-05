@@ -8,7 +8,7 @@ class GoogleMap extends Component {
                 lat: this.props.lat,
                 lng: this.props.lon
             }
-        })
+        });
     }
 
     render() {
